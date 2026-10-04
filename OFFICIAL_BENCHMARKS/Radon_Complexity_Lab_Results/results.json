@@ -1,0 +1,20 @@
+{
+  "benchmark": "Radon_Complexity_Lab_Results",
+  "project": "L_NESYPROOF",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://radon.readthedocs.io/",
+  "results": {
+    "framework": "Radon \u2014 Cyclomatic Complexity & Maintainability Index",
+    "source": "https://radon.readthedocs.io/",
+    "files_analyzed": 7,
+    "average_complexity": {
+      "grade": "A",
+      "score": 4.495412844036697
+    },
+    "complexity_grade": "A",
+    "complexity_score": 4.495412844036697,
+    "status": "PASS",
+    "raw_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\_anticloud_egress.py\n    F 38:0 _is_frontier - A (4)\n    F 43:0 guarded_connect - A (4)\n    F 61:0 install - A (3)\n    F 33:0 is_offline - A (1)\n    C 29:0 EgressDenied - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py\n    M 417:4 HybridTemporalReasoner._compute_symbolic_answer - C (13)\n    M 240:4 HybridTemporalReasoner._verification_step - B (8)\n    M 292:4 HybridTemporalReasoner._generate_final_answer - B (6)\n    C 37:0 HybridTemporalReasoner - A (5)\n    M 127:4 HybridTemporalReasoner._detect_reasoning_level - A (5)\n    M 342:4 HybridTemporalReasoner._parse_time_value - A (5)\n    M 142:4 HybridTemporalReasoner._llm_extraction_step - A (4)\n    M 181:4 HybridTemporalReasoner._symbolic_conversion_step - A (4)\n    M 328:4 HybridTemporalReasoner._convert_event_to_interval - A (4)\n    M 363:4 HybridTemporalReasoner._parse_duration - A (4)\n    M 59:4 HybridTemporalReasoner.reason - A (3)\n    M 208:4 HybridTemporalReasoner._symbolic_reasoning_step - A (3)\n    M 455:4 HybridTemporalReasoner.compare_with_pure_llm - A (2)\n    C 22:0 HybridResult - A (1)\n    M 47:4 HybridTemporalReasoner.__init__ - A (1)\n    M 391:4 HybridTemporalReasoner._convert_to_allen_relation - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\llm_interface.py\n    M 131:4 MockLLM._handle_medical_timeline - C (15)\n   ",
+    "mi_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\_anticloud_egress.py - A (79.55)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py - A (43.49)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\llm_interface.py - A (38.41)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\provenance.py - A (38.93)\nE:\\fenta\\Downloads\\The "
+  }
+}

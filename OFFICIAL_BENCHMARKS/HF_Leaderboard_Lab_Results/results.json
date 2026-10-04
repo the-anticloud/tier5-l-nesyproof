@@ -1,0 +1,67 @@
+{
+  "benchmark": "HF_Leaderboard_Lab_Results",
+  "project": "L_NESYPROOF",
+  "tier": "TIER_5_WORLD_NEURO_EMBODIED",
+  "slug": "o2alexanderfedin/provenance-neurosymbolic-verification",
+  "commit": "b9be6c805fc3",
+  "run_timestamp": "2026-09-30T15:07:07.146295+00:00",
+  "isolation": {
+    "environment": "local",
+    "model": "distilbert-base-uncased",
+    "hf_model_load_time_sec": 4.42,
+    "platform": "win32",
+    "python": "3.12.10"
+  },
+  "results": {
+    "framework": "HuggingFace Open LLM Leaderboard (proxy via distilbert-base-uncased)",
+    "source": "https://huggingface.co/docs/leaderboards/en/open_llm_leaderboard/archive",
+    "model_used": "distilbert-base-uncased",
+    "note": "Full MMLU/HellaSwag/TruthfulQA/ARC/Winogrande/GSM8K require GPU. Proxy: inference latency.",
+    "samples_run": 5,
+    "latency_ms": {
+      "avg": 43.34,
+      "min": 40.49,
+      "max": 48.49,
+      "all": [
+        43.64,
+        43.31,
+        40.77,
+        48.49,
+        40.49
+      ]
+    },
+    "status": "PASS",
+    "tokenization": {
+      "model": "distilbert-base-uncased",
+      "input_text": "L_NESYPROOF (o2alexanderfedin/provenance-neurosymbolic-verification) \u2014 62 files, 2771 source lines, licence MIT, primary language ['Python']",
+      "token_count": 47,
+      "tokens_preview": [
+        "[CLS]",
+        "l",
+        "_",
+        "nes",
+        "##yp",
+        "##ro",
+        "##of",
+        "(",
+        "o",
+        "##2",
+        "##ale",
+        "##xa",
+        "##nder",
+        "##fed",
+        "##in",
+        "/",
+        "proven",
+        "##ance",
+        "-",
+        "ne"
+      ],
+      "tokenization_latency_ms": 2.0,
+      "classification_label": "LABEL_0",
+      "classification_score": 0.5808,
+      "classification_latency_ms": 81.52,
+      "status": "PASS"
+    }
+  }
+}

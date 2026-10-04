@@ -1,0 +1,20 @@
+{
+  "benchmark": "Ruff_Linter_Lab_Results",
+  "project": "L_NESYPROOF",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://docs.astral.sh/ruff/",
+  "results": {
+    "framework": "Ruff \u2014 Fast Python Linter (Astral)",
+    "source": "https://docs.astral.sh/ruff/",
+    "files_scanned": 7,
+    "total_issues": 144,
+    "top_issue_codes": {
+      "UP006": 57,
+      "UP045": 21,
+      "UP035": 16,
+      "F401": 15,
+      "RUF013": 7
+    },
+    "status": "FAIL"
+  }
+}

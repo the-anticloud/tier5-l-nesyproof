@@ -1,0 +1,14 @@
+{
+  "benchmark": "Lizard_Complexity_Lab_Results",
+  "project": "L_NESYPROOF",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://github.com/terryyin/lizard",
+  "results": {
+    "framework": "Lizard \u2014 Multi-Language Complexity Analyzer",
+    "source": "https://github.com/terryyin/lizard",
+    "total_functions": null,
+    "avg_cyclomatic_complexity": null,
+    "status": "SKIP",
+    "raw_output": "================================================\n  NLOC    CCN   token  PARAM  length  location  \n------------------------------------------------\n       5      1     41      2      11 __init__@47-57@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py\n      35      3    229      3      67 reason@59-125@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py\n       7      5     73      2      14 _detect_reasoning_level@127-140@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py\n      32      4    163      3      38 _llm_extraction_step@142-179@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py\n      18      4    129      2      26 _symbolic_conversion_step@181-206@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hyb"
+  }
+}

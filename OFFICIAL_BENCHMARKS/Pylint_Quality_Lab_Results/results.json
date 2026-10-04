@@ -1,0 +1,15 @@
+{
+  "benchmark": "Pylint_Quality_Lab_Results",
+  "project": "L_NESYPROOF",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://pylint.readthedocs.io/",
+  "results": {
+    "framework": "Pylint \u2014 Python Code Quality Analyzer",
+    "source": "https://pylint.readthedocs.io/",
+    "files_analyzed": 5,
+    "pylint_score": 8.62,
+    "pylint_score_max": 10.0,
+    "status": "PASS",
+    "raw_output": "************* Module _anticloud_egress\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\_anticloud_egress.py:33:0: C0116: Missing function or method docstring (missing-function-docstring)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\_anticloud_egress.py:63:4: W0603: Using the global statement (global-statement)\n************* Module hybrid_reasoner\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:132:0: C0301: Line too long (103/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:172:0: C0301: Line too long (102/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:181:0: C0301: Line too long (107/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:198:0: C0301: Line too long (104/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:247:0: C0301: Line too long (118/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:258:0: C0301: Line too long (111/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:281:0: C0301: Line too long (102/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:297:0: C0301: Line too long (103/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:369:0: C0301: Line too long (101/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:491:0: C0301: Line too long (159/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:506:0: C0301: Line too long (158/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hybrid_reasoner.py:518:0: C0301: Line too long (125/100) (line-too-long)\nTIER_5_WORLD_NEURO_EMBODIED\\L_NESYPROOF\\UPSTREAM\\prototype\\hyb"
+  }
+}
